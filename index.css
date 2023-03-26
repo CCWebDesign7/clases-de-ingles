@@ -1,0 +1,97 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #19A7CE;
+    color: #F6F1F1;
+}
+
+.button-style {
+    text-decoration: none;
+    color: #F6F1F1;
+    border-color: #F6F1F1;
+    height: auto;
+    font-size: 75%;
+}
+
+#course-open {
+    color: #F6F1F1;
+    font-size: 100%;
+}
+
+#classroom {
+    height: 700px;
+    object-fit: cover;
+}
+
+#top-promotion {
+    border: #F6F1F1;
+    border-radius: 200px;
+}
+
+#courses {
+    font-size: 150%;
+}
+
+#navbar-logo {
+    height: 130px;
+}
+
+.nav-el {
+    font-size: 100%;
+}
+
+#outside-picture {
+    height: 500px;
+    object-fit: cover;
+}
+
+#about-us-info {
+    font-size: 125%;
+}
+
+#dickens-logo {
+    height: 125px;
+}
+
+#map {
+    height: 100%;
+}
+
+.exam-titles {
+    font-size: 200%;
+}
+
+
+.courses-area {
+    background-image: url(background.svg);
+}
+
+.exam-description {
+    font-size: 100%;
+}
+
+#courses-title {
+    background-color: #F6F1F1;
+    color:#19A7CE;
+}
+
+.start-course {
+    font-size: 130%;
+}
+
+#start-to-course {
+    font-size: 150%;
+}
+
+.start-to-course {
+    background-color: #F6F1F1;
+    color:#19A7CE;
+}
+
+#button-bottom {
+    color:#19A7CE;
+    border-color: #19A7CE;
+}
+
+.map {
+    object-fit: cover;
+}
